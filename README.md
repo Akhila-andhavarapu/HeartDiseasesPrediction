@@ -11,3 +11,17 @@ time, and expertise. Since we have a good amount of data in today’s
 world, we can use various machine learning algorithms to analyze the
 data for hidden patterns. The hidden patterns can be used for health
 diagnosis in medical data.
+
+# PREDICITIVE MODEL SELECTION
+We have taken 2 machine learning models into consideration:
+1. Decision Tree classifier:
+DT is a supervised algorithm that creates a classification model
+by construction a decision tree. Every hub in the tree determines
+a test on a trait, each branch sliding from that hub related to one
+of the potential qualities for that property.
+2. K Nearest neighbors:
+K-nearest neighbors (KNN) is perhaps the most straightforward
+calculation utilized in machine learning for relapse and
+characterization issues. KNN algorithms use information and
+order new information in view of comparability measures.
+Categorization is performed by a major support to its neighbors.
