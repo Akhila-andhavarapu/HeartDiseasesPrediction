@@ -55,3 +55,6 @@ for comparison are confusion matrix, precision, specificity, sensitivity,
 and F1 score. For the 13 features which were in the dataset, K-
 Neighbors classifier performed better in the ML approach when data
 preprocessing is applied.
+
+# CONTIRBUTIONS
+AUTHOR : 
