@@ -37,6 +37,6 @@ which were achieved were not promising.
 overfitting problem and then applying Isolation Forest for the
 outlier’s detection, the results achieved are quite promising.
 4. Various plotting techniques were used for checking the skewness of
-the data, outlier detection, and the distribution of
-5. the data. All these preprocessing techniques play a key role when
+the data, outlier detection, and the distribution of the data.
+5. All these preprocessing techniques play a key role when
 passing the data for classification or prediction purposes.
