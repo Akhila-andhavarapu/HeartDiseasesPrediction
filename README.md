@@ -40,3 +40,18 @@ outlier’s detection, the results achieved are quite promising.
 the data, outlier detection, and the distribution of the data.
 5. All these preprocessing techniques play a key role when
 passing the data for classification or prediction purposes.
+
+# CONCULSION
+The conclusion which we found is that machine learning algorithms
+performed better in this analysis. Many researchers have previously
+suggested that we should use ML where the dataset is not that large,
+which is proved in this work. In this paper, we proposed three methods
+in which comparative analysis was done and promising results were
+achieved. The conclusion which we found is that machine learning
+algorithms performed better in this analysis. Many researchers have
+previously suggested that we should use ML where the dataset is not that
+large, which is proved in this paper. The methods which are used
+for comparison are confusion matrix, precision, specificity, sensitivity,
+and F1 score. For the 13 features which were in the dataset, K-
+Neighbors classifier performed better in the ML approach when data
+preprocessing is applied.
