@@ -57,4 +57,4 @@ Neighbors classifier performed better in the ML approach when data
 preprocessing is applied.
 
 # CONTIRBUTIONS
-AUTHOR : [Akhila Andhavarapu] (
+AUTHOR : [![Akhila Andhavarapu]] (https://github.com/Akhila-andhavarapu)
